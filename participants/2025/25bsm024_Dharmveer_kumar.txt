@@ -1,0 +1,2 @@
+If this code works, I wrote it.
+If it doesn’t, it was written by chatgpt😄
